@@ -1,0 +1,10 @@
+{
+  "name": "inline-image",
+  "version": "0.1.0",
+  "description": "Shows an image file inline in the conversation, from the /image command or the show_image tool",
+  "author": { "name": "yebei199", "url": "https://github.com/yebei199" },
+  "homepage": "https://github.com/yebei199/claude-inline-image",
+  "repository": "https://github.com/yebei199/claude-inline-image",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

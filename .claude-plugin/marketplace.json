@@ -1,0 +1,15 @@
+{
+  "name": "yebei199",
+  "description": "Claude Code mods by yebei199",
+  "owner": {
+    "name": "yebei199",
+    "url": "https://github.com/yebei199"
+  },
+  "plugins": [
+    {
+      "name": "inline-image",
+      "source": "./",
+      "description": "Shows an image file inline in the conversation, from the /image command or the show_image tool"
+    }
+  ]
+}
