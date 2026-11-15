@@ -68,4 +68,4 @@ the same kind: it also shows video, audio, HTML pages and documents.
 
 ## License
 
-AGPL-3.0-only, with additional terms under section 7 (see [LICENSE](LICENSE)). The additional terms require every derivative work to preserve the attribution `Based on claude-inline-image by yebei199 - https://github.com/yebei199/claude-inline-image`, and to show it in its about or legal notice if it has a user interface. Modified versions must be marked as changed and must not be presented as the original claude-inline-image.
+AGPL-3.0-only, with additional terms under section 7 (see [LICENSE](LICENSE) and [NOTICE](NOTICE)). The additional terms require every derivative work to preserve the attribution `Based on claude-inline-image by yebei199 - https://github.com/yebei199/claude-inline-image`, and to show it in its about or legal notice if it has a user interface. Modified versions must be marked as changed and must not be presented as the original claude-inline-image.
